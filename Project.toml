@@ -1,6 +1,6 @@
 name = "IdentPams"
 uuid = "3046705a-9b9e-406b-afea-e9d6eccf656d"
-authors = ["psggsl <paolo.surreal@gmail.com>"]
+authors = ["psggsl <p.surnin@g.nsu.ru>"]
 version = "0.1.0"
 
 [deps]
