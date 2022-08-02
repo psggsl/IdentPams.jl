@@ -4,4 +4,5 @@ authors = ["psggsl <p.surnin@g.nsu.ru>"]
 version = "0.1.0"
 
 [deps]
+DiffEqSensitivity = "41bf760c-e81c-5289-8e54-58b1f1f8abe2"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
